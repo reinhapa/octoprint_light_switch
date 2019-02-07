@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_light_switch/templates *
+recursive-include octoprint_light_switch/translations *
+recursive-include octoprint_light_switch/static *
